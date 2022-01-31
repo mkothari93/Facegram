@@ -70,3 +70,5 @@ const userController = {
       //remove a user's associated thoughts when deleted
   },
 };
+
+module.exports = userController;
