@@ -66,14 +66,24 @@ const thoughtController = {
   //delete a thought by id
   deleteThought({ params }, res) {
     Thought.findOneAndDelete({ _id: params.id })
-      .then((dbThoughtData) => {
-        if (!dbThoughtData) {
-          res.status(404).json({ message: 'No thought found with this id!' });
+      .then(deletedThought => {
+        if (!deletedThought) {
+          return res.status(404).json({ message: 'No thought found with this id!' });
+        }
+        return User.findOneAndUpdate(
+          { thoughts: params.id },
+          { $pull: { thoughts: params.id } },
+          { new: true }
+        );
+      })
+      .then(dbUserData => {
+        if (!dbUserData) {
+          res.status(404).json({ message: 'No user found with this id!' });
           return;
         }
-        res.json(dbThoughtData);
+        res.json(dbUserData);
       })
-      .catch((err) => res.status(400).json(err));
+      .catch(err => res.json(err));
   },
 };
 
