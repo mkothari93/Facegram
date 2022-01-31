@@ -1,0 +1,24 @@
+{
+  "name": "facegram---social-network-api",
+  "version": "1.0.0",
+  "description": "Social Network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkothari93/Facegram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkothari93/Facegram/issues"
+  },
+  "homepage": "https://github.com/mkothari93/Facegram#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  }
+}
