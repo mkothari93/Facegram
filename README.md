@@ -8,8 +8,6 @@ Facegram is an social network API where users can share their thoughts, react to
 <br>
 
 ## Built With
----
-
 - Node.js
 - Express.js
 - Mongoose
@@ -19,8 +17,6 @@ Facegram is an social network API where users can share their thoughts, react to
 <br>
 
 ## Table of Contents
----
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -30,17 +26,13 @@ Facegram is an social network API where users can share their thoughts, react to
 <br>
 
 ## Installation
----
 To install this API, clone this repository. Run `$npm i` command in the terminal to install all dependencies. Run `$npm start` to start the server and use Insomnia to run the routes.
 
 <br>
 
 ## Usage
----
 Usage of this project is shown in the video below:
-<iframe src="https://drive.google.com/file/d/1DU192-u4BjT6LokuHvpd0T0mZikwr4X1/preview" width="640" height="480"></iframe>
-
-<iframe src="https://drive.google.com/file/d/18WANaEyDV1BQZoeEoOy1lm-hoeWTkPSn/preview" width="640" height="480"></iframe>
+<a href="{https://watch.screencastify.com/v/izyiZmZJKZuGrOZkPDU8}" title="FaceGram Walkthrough Pt. 1">
 
 Link to watch video: </br>
 Part 1: https://watch.screencastify.com/v/izyiZmZJKZuGrOZkPDU8
@@ -49,14 +41,11 @@ Part 2: https://watch.screencastify.com/v/PLNQFdkBv6SYbO0eTMHt
 <br>
 
 ## Credits
----
 Made by Monika Kothari 
 
 <br>
 
 ## License
----
-
 The application is covered under the following license:
 
 [MIT](https://opensource.org/licenses/MIT)
@@ -64,8 +53,6 @@ The application is covered under the following license:
 <br>
 
 ## Questions
----
-
 If you have any additonal questions, contact me via:
 
 GitHub: [Monika Kothari GitHub](https://github.com/mkothari93)
