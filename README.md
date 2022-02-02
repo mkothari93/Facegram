@@ -32,10 +32,17 @@ To install this API, clone this repository. Run `$npm i` command in the terminal
 
 ## Usage
 Usage of this project is shown in the video below:
-<a href="{https://watch.screencastify.com/v/izyiZmZJKZuGrOZkPDU8}" title="FaceGram Walkthrough Pt. 1">
+
+
+![FaceGram Pt  1](https://user-images.githubusercontent.com/90233589/152082482-126479aa-600b-4c2c-9e39-f54cff9802e6.gif)
+
+
+![FaceGram Pt  2](https://user-images.githubusercontent.com/90233589/152082546-017d893f-504e-4d55-8c7a-47cea0399981.gif)
+
 
 Link to watch video: </br>
 Part 1: https://watch.screencastify.com/v/izyiZmZJKZuGrOZkPDU8
+
 Part 2: https://watch.screencastify.com/v/PLNQFdkBv6SYbO0eTMHt
 
 <br>
