@@ -38,12 +38,12 @@ To install this API, clone this repository. Run `$npm i` command in the terminal
 ## Usage
 ---
 Usage of this project is shown in the video below:
+<iframe src="https://drive.google.com/file/d/1DU192-u4BjT6LokuHvpd0T0mZikwr4X1/preview" width="640" height="480"></iframe>
 
-
+<iframe src="https://drive.google.com/file/d/18WANaEyDV1BQZoeEoOy1lm-hoeWTkPSn/preview" width="640" height="480"></iframe>
 
 Link to watch video: </br>
 Part 1: https://watch.screencastify.com/v/izyiZmZJKZuGrOZkPDU8
-
 Part 2: https://watch.screencastify.com/v/PLNQFdkBv6SYbO0eTMHt
 
 <br>
