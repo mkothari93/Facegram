@@ -41,7 +41,10 @@ Usage of this project is shown in the video below:
 
 
 
-Link to watch video: 
+Link to watch video: </br>
+Part 1: https://watch.screencastify.com/v/izyiZmZJKZuGrOZkPDU8
+
+Part 2: https://watch.screencastify.com/v/PLNQFdkBv6SYbO0eTMHt
 
 <br>
 
